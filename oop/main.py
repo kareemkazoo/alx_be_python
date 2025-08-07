@@ -1,4 +1,4 @@
-from polymorphism_demo import shap, Rectangle, Circle
+from polymorphism_demo import Shape, Rectangle, Circle
 
 def main():
     shapes = [
